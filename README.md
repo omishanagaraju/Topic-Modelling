@@ -3,7 +3,7 @@ This project is to explain the working and understanding of Topic Modelling on t
 
 ## Overview
 
-This repository contains Jupyter Notebook (`Topic-Modelling-Code.ipynb`) files fand associated data files in CSV (`state-of-the-union.csv`, `stopwords-en.csv`) format. This README provides instructions on how to download and use these files.
+This repository contains Jupyter Notebook (`Topic-Modelling-Code.ipynb`) files and associated data files in CSV (`state-of-the-union.csv`, `stopwords-en.csv`) format. This README provides instructions on how to download and use these files.
 
 
 ## Getting Started
