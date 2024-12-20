@@ -17,7 +17,7 @@ The easiest way to get all the files is to clone the repository using Git. This 
 *   **If you have Git installed:** Open your terminal or command prompt and navigate to the directory where you want to store the project. Then, run the following command:
 
     ```bash
-    git clone <https://github.com/omishanagaraju/Topic-Modelling/master>
+    git clone https://github.com/omishanagaraju/Topic-Modelling/master
     ```
 
 **2. Downloading as a ZIP file:**
